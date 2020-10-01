@@ -1,4 +1,4 @@
-# python22
+# python
 sub = ("This is just for pratice")
 bus = ("My name is Surya")
 print(bus  + ". i am learning python and " + sub)
@@ -16,3 +16,7 @@ print(water(0,0))
 print(water(200,19))
 print(water(180,20))
 print(water(200,20))
+print(water(10,0))
+print(water(203,192))
+print(water(18023,2032))
+print(water(54200,2530))
